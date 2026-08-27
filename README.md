@@ -1,3 +1,11 @@
+> [!WARNING]
+> **⚠️ DEPRECATED — this repository is no longer maintained.**
+>
+> This fork of [procraft/react-avatar-cropper](https://github.com/procraft/react-avatar-cropper)
+> (upstream dead since 2018) existed for a single internal consumer, which has replaced
+> it with a `react-easy-crop`-based cropper (BROW-2632).
+> It has zero consumers and will be archived. Do not add new dependencies on it.
+
 # react-avatar-cropper
 
 React Avatar Cropper aims to be an out of the box solution to solve the avatar cropping problem for 99% of common use cases. Most of the time you want a modal to pop up, allow the user to crop their uploaded image, and then you want to receive that base64 data to display and send to the server. React Avatar Cropper takes care of this use case.
